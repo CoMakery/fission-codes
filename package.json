@@ -33,7 +33,7 @@
     "url": "https://github.com/fission-suite/fission-codes/issues"
   },
   "engines": {
-    "node": "10.11"
+    "node": ">=10.11"
   },
   "devDependencies": {
     "chai": "^4.1.2",
